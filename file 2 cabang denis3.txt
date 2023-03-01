@@ -1,4 +1,4 @@
-ini adalah rincian materi 
+ini adalah rincian materi tebaru
 1. html dan css
 2. github
 3. js
@@ -6,3 +6,4 @@ ini adalah rincian materi
 5. MySQL
 6. Laravel
 7. Rest API
+9. final project
