@@ -1,4 +1,4 @@
-Rincian materi pelatihan
+Rincian materi pelatihan terbaru
 1. Web design
 2. JS
 3. Github
@@ -7,3 +7,4 @@ Rincian materi pelatihan
 6. PHP dan mySQL
 7. Laravel
 8. Rest API
+9. final project
